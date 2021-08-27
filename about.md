@@ -3,12 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+my name Shidiq Hartono
+i'm simple person
+Electronics And Machine Learning Enthusiast
 
 ### More Information
+my interest learning about electronics, PCB design, Machine Learning and Computer Vision
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
