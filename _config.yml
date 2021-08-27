@@ -9,7 +9,7 @@ name: Sidikkha
 description: Elecronics And Machine Learning Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/dekkuz/dekkuz.github.io/tree/master/images/dk.jpg
+avatar: https://github.com/dekkuz/dekkuz.github.io/tree/master/images/dkw.png
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: dekkuz
+  github: https://github.com/dekkuz
   instagram:
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/shidiq-hartono-4a96141b1/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
