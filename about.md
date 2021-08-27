@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-my name Shidiq Hartono
-i'm simple person
-Electronics And Machine Learning Enthusiast
+my name Shidiq Hartono 
+simple person
 
 ### More Information
 my interest learning about electronics, PCB design, Machine Learning and Computer Vision
@@ -13,4 +12,4 @@ my interest learning about electronics, PCB design, Machine Learning and Compute
 
 ### Contact me
 
-[sidiksangad21@gmail.com](mailto:sidiksangad21@gmail.com)
+[sidikkers19@gmail.com](mailto:sidikkers19@gmail.com)
