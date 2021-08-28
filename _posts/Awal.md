@@ -2,4 +2,5 @@
 layout: post
 title: Welcome
 ---
-
+SELAMAT DATANG DI WEB PRIBADI SAYA,
+INFO LEBIH LANJUT ADA DI ABOUT
