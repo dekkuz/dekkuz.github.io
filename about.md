@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-my name Shidiq Hartono 
+my name Shidiq Hartono, 
 simple person
 
 ### More Information
