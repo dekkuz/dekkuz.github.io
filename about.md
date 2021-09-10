@@ -11,4 +11,4 @@ my interest learning about electronics, PCB design, Machine Learning and Compute
 
 ### Contact me
 
-[sidikkers19@gmail.com](mailto:sidikkers19@gmail.com)
+[sidikhart19@gmail.com](mailto:sidikhart19@gmail.com)
